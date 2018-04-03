@@ -1,12 +1,9 @@
-/** - will these libs be available?
-
 	var utils = require('../utils.js');
 	var adloader = require('../adloader.js');
 	var bidmanager = require('../bidmanager.js');
 	var bidfactory = require('../bidfactory.js');
 
-/** - prebid adapter: https://github.com/tiffwu/Prebid.js/blob/master/src/adapters/triplelift.js
-
+/** - prebid adapter: https://github.com/tiffwu/Prebid.js/blob/master/src/adapters/triplelift.js **/
 
 var AufBid = window.AufBid || {};
 
